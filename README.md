@@ -1,8 +1,6 @@
 ### 👋 Hi I'm Itube
 
-- 🌱 I’m currently learning C, Python and HTML
-- 🤔 I’m looking for help with C++
-- 💬 Ask me about Python bot development
+- 🌱 I’m currently learning C++
 - ⚡ Fun fact: I like learning new things!
 
 -------------------
